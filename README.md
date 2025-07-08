@@ -1,6 +1,6 @@
-# NLW Together – Let Me Ask: Powered by AI
+# NLW Agents – Let Me Ask: Powered by AI
 
-Este repositório contém o projeto **Let Me Ask**, desenvolvido durante o evento **NLW Together** da Rocketseat.
+Este repositório contém o projeto **Let Me Ask**, desenvolvido durante o evento **NLW Agents** da Rocketseat.
 
 ## O Superpoder do Let Me Ask
 
