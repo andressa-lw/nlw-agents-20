@@ -49,9 +49,11 @@ O NLW Agents é um servidor Node.js que utiliza TypeScript, Drizzle ORM e Docker
    ```
 
 ## Observações
+
 - O projeto utiliza Drizzle para manipulação do banco de dados e migrations.
 - O padrão de organização segue separação clara entre rotas, banco e schemas.
 - Para testar rotas, utilize o arquivo `client.http`.
 
 ---
+
 Desenvolvido durante o NLW da Rocketseat.
